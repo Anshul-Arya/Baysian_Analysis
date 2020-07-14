@@ -12,6 +12,6 @@ that lie (double entendre intended) beyond the reach of evidence. If you are won
 about a belief that has no specific implications for concrete facts in the observable world,
 then inferential statistics won’t help.
 
-### Running Proportion of Heads
+### 1. Running Proportion of Heads
 Running proportion of heads when flipping a coin. The x-axis is plotted on a logarithmic scale so that you can see the details of the first few flips but also the long-run trend
 after many flips. (The R code that generated this graph is in RunningProportion.R.When you run the code,your graph will look different than this one because you will generate a different random sequence of flips.)
