@@ -15,3 +15,7 @@ then inferential statistics won’t help.
 ### 1. Running Proportion of Heads
 Running proportion of heads when flipping a coin. The x-axis is plotted on a logarithmic scale so that you can see the details of the first few flips but also the long-run trend
 after many flips. (The R code that generated this graph is in RunningProportion.R.When you run the code,your graph will look different than this one because you will generate a different random sequence of flips.)
+
+### 2. Normal Probability Density
+A normal probability density function, shown with a comb of narrow intervals. The integral is approximated by summing the width times height of each interval. (The R
+code that generated this graph is in IntegralOfDensity.R
